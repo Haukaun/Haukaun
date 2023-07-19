@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **haakonfs@hotmail.com**
 
-- 📄 Know about my experiences [https://hakonz3.com/](https://hakonz3.com/)
+- 📄 Know about my experiences [https://hakonz3.com/](https://hakonz3.com/) (NEW WEBPAGE SOON)
 
 - ⚡ Fun fact **Not in the mood for that yet**
 
