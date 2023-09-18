@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Haukaun](https://github.com/Haukaun)
 
-- 📝 I regularly write articles on [TBD](TBD)
-
 - 💬 Ask me about **react, next and tailwind**
 
 - 📫 How to reach me **haakonfs@hotmail.com**
