@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **haakonfs@hotmail.com**
 
-- 📄 Know about my experiences [https://hakonz3.com/](https://hakonz3.com/) (TBD)
-
 - ⚡ Fun fact **Not in the mood for that yet**
 
 <h3 align="left">Connect with me:</h3>
