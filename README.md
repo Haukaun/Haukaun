@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on [next13-supabase-app](https://github.com/Haukaun/next13-supabase-app)
+- 🔭 I’m currently working on [Portfolio](https://github.com/Haukaun/react-portfolio-website)
 
-- 🌱 I’m currently learning **Next13, supabase and tailwind**
+- 🌱 I’m currently learning **Angular and tailwind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Haukaun](https://github.com/Haukaun)
 
