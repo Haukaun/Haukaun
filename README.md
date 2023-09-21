@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Haukaun](https://github.com/Haukaun)
 
+- 👨‍💻 Go visit my portfolio site at [https://hakonz3.com](https://hakonz3.com/)
+
 - 💬 Ask me about **react, next and tailwind**
 
 - 📫 How to reach me **haakonfs@hotmail.com**
