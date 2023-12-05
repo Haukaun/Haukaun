@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/Haukaun/react-portfolio-website)
 
+- 🌱 Workplace: Safebase
+
 - 🌱 I’m currently learning **Angular and tailwind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Haukaun](https://github.com/Haukaun)
