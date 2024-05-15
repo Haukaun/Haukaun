@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Håkon Sætre</h1>
-<h3 align="center">A passionate developer from Norway</h3>
 
-
-
-- 🔭 I’m currently working on [Portfolio](https://github.com/Haukaun/react-portfolio-website)
 
 - 🌱 Workplace: Safebase
 
-- 🌱 I’m currently learning **Angular and tailwind**
+- 🌱 I’m currently learning **Angular and SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Haukaun](https://github.com/Haukaun)
 
@@ -16,9 +12,7 @@
 - 💬 Ask me about **react, next and tailwind**
 
 - 📫 How to reach me **haakonfs@hotmail.com**
-
-- ⚡ Fun fact **Not in the mood for that yet**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/haukaun99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haukaun99" height="30" width="40" /></a>
